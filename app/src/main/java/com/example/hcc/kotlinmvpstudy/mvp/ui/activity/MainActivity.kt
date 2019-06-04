@@ -1,7 +1,8 @@
-package com.example.hcc.kotlinmvpstudy
+package com.example.hcc.kotlinmvpstudy.mvp.ui.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.example.hcc.kotlinmvpstudy.R
 
 class MainActivity : AppCompatActivity() {
 
