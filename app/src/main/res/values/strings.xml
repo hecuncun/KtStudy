@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">KotlinMvpStudy</string>
+
+
+
+
+
+    <string name="splash_text">每日精选视频，让你大开眼界</string>
+    <!--权限相关-->
+    <string name="string_help_text">当前应用缺少%1$s权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="p_read_external_storage">读取手机存储</string>
 </resources>

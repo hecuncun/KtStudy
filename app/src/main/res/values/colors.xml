@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="color_gray">#9a9a9a</color>
+    <!-- title 半透明背景颜色 -->
+    <color name="color_title_bg">#CCFFFFFF</color>
+    <!-- white -->
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
 </resources>
